@@ -15,7 +15,7 @@ This app requires the [Node](https://nodejs.org/) installed on your development 
 
 ## Author
 
-* **Azeez Olaniran**
+* **VIGNESH MUTHU**
 
 ## License
 
